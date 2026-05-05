@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/ali-burak-karabuğa-64b076317">
+  <a href="www.linkedin.com/in/ali-burak-karabuğa-64b076317">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
