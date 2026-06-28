@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <a href="www.linkedin.com/in/ali-burak-karabuğa-64b076317">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -38,6 +38,33 @@ I'm a Computer Engineering student with a strong interest in **Embedded Systems*
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+
+### [Bahar Pancar Website](https://github.com/aliburakkarabuga/bahar-pancar)
+> Personal website for a psychologist — built with zero dependencies, zero frameworks.
+- 🎨 Canvas particle system reacting to mouse movement
+- 💳 3D business card flip effect with touch support
+- ✨ Magnetic buttons, parallax scrolling, clip-path scroll reveals
+- 📱 Fully responsive with reduced-motion and mobile touch support
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
+### [Ata Akademi Website](https://github.com/aliburakkarabuga/ata-akademi-website)
+> Production website for a Turkish education center — SEO optimized with sitemap, robots.txt and structured data.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+
+
+### [Toolbox](https://github.com/aliburakkarabuga/toolbox)
+> A growing collection of CLI tools written in C++.
+- 🔐 **passgen** — Secure password generator with entropy analysis and /dev/urandom seeding
+
+
 ---
 
 ## 🛠️ Skills & Tools
@@ -67,5 +94,5 @@ I'm a Computer Engineering student with a strong interest in **Embedded Systems*
 ---
 
 <p align="center">
-  <em>"The best way to predict the future is to build it."</em>
+  <em>"Tony Stark was able to build this in a cave!"</em>
 </p>
