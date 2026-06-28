@@ -1,98 +1,174 @@
-<h1 align="center">Hi, I'm Burak 👋</h1>
+<!-- KAHRAMAN BANNER (HERO SECTON) -->
+<table width="100%" cellpadding="10" cellspacing="0" border="0">
+  <tr>
+    <td bgcolor="#161b22" style="border: 1px solid #30363d; border-radius: 12px; padding: 25px;">
+      <font size="6" color="#e6edf3"><b>Merhaba, ben Burak 👋</b></font><br>
+      <font size="3" color="#7d8590" face="monospace">Computer Engineering Student & Hardware Enthusiast</font>
+      <br><br>
+      <!-- ROZETLER / BADGES -->
+      <a href="#"><img src="https://img.shields.io/badge/%E2%97%8F%20Open%20to%20collaborate-3fb950?style=flat&labelColor=161b22" alt="Collaboration"></a>
+      <a href="#"><img src="https://img.shields.io/badge/%E2%97%8F%20ESP32%20%2B%20Node.js-1f6feb?style=flat&labelColor=161b22" alt="Tech"></a>
+      <a href="#"><img src="https://img.shields.io/badge/%E2%97%8F%20Building%20cabin--tracker-8b5cf6?style=flat&labelColor=161b22" alt="Project"></a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <em>Computer Engineering Student · Embedded Systems · AI & Machine Learning</em>
-</p>
+<br>
 
-<p align="center">
-  <a href="www.linkedin.com/in/ali-burak-karabuğa-64b076317">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<!-- HAKKIMDA BÖLÜMÜ -->
+<font size="2" color="#484f58"><b>📌 HAKKIMDA</b></font>
+<table width="100%" cellpadding="10" cellspacing="0" border="0">
+  <tr>
+    <td bgcolor="#161b22" style="border: 1px solid #21262d; border-radius: 10px; padding: 15px;">
+      <pre style="color: #7d8590; font-family: 'Courier New', monospace; margin: 0; background: #0d1117; padding: 12px; border-radius: 8px; border: 1px solid #21262d;">
+> Bilgisayar mühendisliği öğrencisiyim, donanım & yazılım projelerine tutkuyla bağlıyım.
+> Şu an cabin-tracker'ı geliştiriyorum — gerçek zamanlı soyunma odası 
+  doluluk takip sistemi (Node.js, WebSocket, ESP32).
+> Arduino Uno & ESP32 ile hardware entegrasyonu üzerine çalışıyorum.
+> Donanım seviyesinde verimli, yazılım seviyesinde akıllı sistemler hedefliyorum.</pre>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-## 👨‍💻 About Me
+<!-- TEKNOLOJİLER -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td>
+      <font size="3" color="#e6edf3"><b>🔧 Teknolojiler</b></font>
+    </td>
+  </tr>
+  <tr>
+    <td height="1" bgcolor="#21262d"></td>
+  </tr>
+</table>
+<br>
+<font size="2" color="#484f58"><b>CORE STACK</b></font><br>
+<img src="https://img.shields.io/badge/Node.js-3fb950?style=flat-square&labelColor=161b22" alt="Node.js">
+<img src="https://img.shields.io/badge/JavaScript-1f6feb?style=flat-square&labelColor=161b22" alt="JavaScript">
+<img src="https://img.shields.io/badge/WebSocket-1f6feb?style=flat-square&labelColor=161b22" alt="WebSocket">
+<img src="https://img.shields.io/badge/ESP32-8b5cf6?style=flat-square&labelColor=161b22" alt="ESP32">
+<img src="https://img.shields.io/badge/Arduino-8b5cf6?style=flat-square&labelColor=161b22" alt="Arduino">
+<img src="https://img.shields.io/badge/C%2F%2B%2B-8b5cf6?style=flat-square&labelColor=161b22" alt="C++">
+<img src="https://img.shields.io/badge/HTML%2FCSS-56d364?style=flat-square&labelColor=161b22" alt="HTML/CSS">
+<img src="https://img.shields.io/badge/Git-56d364?style=flat-square&labelColor=161b22" alt="Git">
 
-I'm a Computer Engineering student with a strong interest in **Embedded Systems** and **AI / Machine Learning**. I enjoy working close to the hardware while also exploring intelligent systems — from microcontrollers to machine learning models.
+<br><br>
+<font size="2" color="#484f58"><b>ARAÇLAR & ORTAM</b></font><br>
+<img src="https://img.shields.io/badge/VS%20Code-21262d?style=flat-square&labelColor=161b22" alt="VSCode">
+<img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&labelColor=161b22" alt="GitHub">
+<img src="https://img.shields.io/badge/npm-21262d?style=flat-square&labelColor=161b22" alt="npm">
+<img src="https://img.shields.io/badge/Linux-21262d?style=flat-square&labelColor=161b22" alt="Linux">
+<img src="https://img.shields.io/badge/Postman-21262d?style=flat-square&labelColor=161b22" alt="Postman">
 
-- 🔭 Currently building **Cabin Tracker** — a real-time IoT fitting room system
-- 🌱 Actively learning **Embedded Systems & Microcontrollers**
-- 💡 Interested in the intersection of **low-level hardware** and **intelligent software**
-- 🎯 Goal: Build systems that are both efficient at the hardware level and smart at the software level
+<br><br>
 
----
+<!-- İSTATİSTİKLER GRID (YAN YANA KUTULAR) -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td>
+      <font size="3" color="#e6edf3"><b>📊 İstatistikler</b></font>
+    </td>
+  </tr>
+  <tr>
+    <td height="1" bgcolor="#21262d"></td>
+  </tr>
+</table>
+<br>
 
-## 🚀 Featured Project
+<table width="100%" cellpadding="0" cellspacing="10" border="0">
+  <tr>
+    <!-- SOL KUTU: DİL DAĞILIMI -->
+    <td width="50%" bgcolor="#161b22" style="border: 1px solid #21262d; border-radius: 10px; padding: 15px;" valign="top">
+      <font size="2" color="#7d8590">Dil Dağılımı</font><br><br>
+      <font size="2" color="#e6edf3" face="monospace">JavaScript (52%)</font>
+      <table width="100%" bgcolor="#21262d" height="4" style="border-radius:2px; margin-bottom:8px;"><tr><td width="52%" bgcolor="#f0db4f" style="border-radius:2px;"></td><td></td></tr></table>
+      
+      <font size="2" color="#e6edf3" face="monospace">C/C++ (28%)</font>
+      <table width="100%" bgcolor="#21262d" height="4" style="border-radius:2px; margin-bottom:8px;"><tr><td width="28%" bgcolor="#1f6feb" style="border-radius:2px;"></td><td></td></tr></table>
+      
+      <font size="2" color="#e6edf3" face="monospace">HTML (12%)</font>
+      <table width="100%" bgcolor="#21262d" height="4" style="border-radius:2px; margin-bottom:8px;"><tr><td width="12%" bgcolor="#e34f26" style="border-radius:2px;"></td><td></td></tr></table>
+      
+      <font size="2" color="#e6edf3" face="monospace">CSS (8%)</font>
+      <table width="100%" bgcolor="#21262d" height="4" style="border-radius:2px; margin-bottom:8px;"><tr><td width="8%" bgcolor="#8b5cf6" style="border-radius:2px;"></td><td></td></tr></table>
+    </td>
+    
+    <!-- SAĞ KUTU: GITHUB ÖZETİ (DİNAMİK KARTLARLA DEĞİŞTİRİLDİ) -->
+    <td width="50%" bgcolor="#161b22" style="border: 1px solid #21262d; border-radius: 10px; padding: 15px;" valign="top">
+      <font size="2" color="#7d8590">GitHub Özeti</font><br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=aliburakkarabuga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&title_color=1f6feb&icon_color=3fb950&text_color=e6edf3" alt="Burak's GitHub Stats" width="100%">
+    </td>
+  </tr>
+</table>
 
-### [Cabin Tracker](https://github.com/aliburakkarabuga/cabin-tracker)
-> Real-time fitting room availability tracker built for Zara-style retail environments.
+<br>
 
-- 🔌 **WebSocket server** broadcasts live cabin states instantly — no page refresh
-- 🖥️ **Kiosk screen** with Zara-style floor plan (Available / Occupied / Preparing)
-- 🎛️ **Sensor simulator** mimics real magnetic reed switches on cabin doors
-- ⏱️ **Auto-timer** — Preparing state resets to Available after 30 seconds
-- 🔧 **Hardware integration planned** — Raspberry Pi + reed switches
+<!-- GRAFİK ALANI (DİNAMİK GITHUB GRAPH) -->
+<font size="2" color="#484f58"><b>KOMBİNASYON VE AKTİVİTE GRAFİĞİ</b></font>
+<table width="100%" cellpadding="10" cellspacing="0" border="0">
+  <tr>
+    <td bgcolor="#161b22" style="border: 1px solid #21262d; border-radius: 10px; padding: 15px;" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliburakkarabuga&theme=tokyonight&hide_border=true&background=161b22&ring=1f6feb&fire=3fb950" alt="GitHub Streak" width="100%">
+    </td>
+  </tr>
+</table>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br>
 
+<!-- GÜNCEL PROJE -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td>
+      <font size="3" color="#e6edf3"><b>🚀 Güncel Proje</b></font>
+    </td>
+  </tr>
+  <tr>
+    <td height="1" bgcolor="#21262d"></td>
+  </tr>
+</table>
+<br>
 
-### [Bahar Pancar Website](https://github.com/aliburakkarabuga/bahar-pancar)
-> Personal website for a psychologist — built with zero dependencies, zero frameworks.
-- 🎨 Canvas particle system reacting to mouse movement
-- 💳 3D business card flip effect with touch support
-- ✨ Magnetic buttons, parallax scrolling, clip-path scroll reveals
-- 📱 Fully responsive with reduced-motion and mobile touch support
+<table width="100%" cellpadding="15" cellspacing="0" border="0">
+  <tr>
+    <td bgcolor="#161b22" style="border: 1px solid #1f6feb; border-radius: 10px;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td>
+            <font size="4" color="#79c0ff"><b>cabin-tracker</b></font><br>
+            <font size="2" color="#484f58">Gerçek zamanlı soyunma odası doluluk sistemi</font>
+          </td>
+          <td align="right" valign="top">
+            <span style="background: rgba(63,185,80,0.1); border: 1px solid #3fb950; border-radius: 20px; padding: 4px 12px; font-size: 11px; color: #3fb950;"><b>Aktif</b></span>
+          </td>
+        </tr>
+      </table>
+      <br>
+      <font size="2" color="#7d8590">Node.js · WebSocket · Kiosk UI · Analytics Dashboard · ESP32 (yakında)</font>
+      <br><br>
+      <font size="2" color="#3fb950">✓ Yazılım stack tamamlandı</font> &nbsp;&nbsp;&nbsp;&nbsp; <font size="2" color="#1f6feb">→ Donanım entegrasyonu devam ediyor</font>
+    </td>
+  </tr>
+</table>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br>
 
+<!-- İLETİŞİM -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td>
+      <font size="3" color="#e6edf3"><b>🌐 İletişim</b></font>
+    </td>
+  </tr>
+  <tr>
+    <td height="1" bgcolor="#21262d"></td>
+  </tr>
+</table>
+<br>
 
-### [Ata Akademi Website](https://github.com/aliburakkarabuga/ata-akademi-website)
-> Production website for a Turkish education center — SEO optimized with sitemap, robots.txt and structured data.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-
-
-### [Toolbox](https://github.com/aliburakkarabuga/toolbox)
-> A growing collection of CLI tools written in C++.
-- 🔐 **passgen** — Secure password generator with entropy analysis and /dev/urandom seeding
-
-
----
-
-## 🛠️ Skills & Tools
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Currently Getting Familiar With**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliburakkarabuga&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliburakkarabuga&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
-
----
-
-<p align="center">
-  <em>"Tony Stark was able to build this in a cave!"</em>
+<p align="left">
+  <a href="https://github.com/aliburakkarabuga"><img src="https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=e6edf3" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/ali-burak-karabuğa-64b076317"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=1f6feb" alt="LinkedIn"></a>
+  <a href="mailto:eposta-adresin@domain.com"><img src="https://img.shields.io/badge/E--posta-21262d?style=for-the-badge&logo=gmail&logoColor=ef4444" alt="Email"></a>
 </p>
