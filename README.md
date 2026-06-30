@@ -23,8 +23,8 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Burak Karabuga
-role: Computer Engineering Student (1st Year)
+name: Ali Burak Karabuğa
+role: Computer Engineering Student (Freshman)
 focus:
   - IoT & Embedded Systems (ESP32, Arduino Uno)
   - Real-time Web Systems (Node.js, WebSocket)
@@ -32,7 +32,6 @@ focus:
   - Client Websites (Vanilla HTML/CSS/JS)
 currently_building:
   - cabin-tracker   # Real-time fitting room occupancy monitoring system
-  - toolbox         # C++ CLI toolkit (passgen, ...)
 goal: Commercial IoT solutions for Turkish retail chains
 ```
 
