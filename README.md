@@ -114,7 +114,7 @@ toolbox/
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-aliburakkarabuga-181717?style=flat-square&logo=github)](https://github.com/aliburakkarabuga)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/ali-burak-karabuğa-64b076317)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ali-burak-karabuğa-64b076317/)
 
 </div>
 
