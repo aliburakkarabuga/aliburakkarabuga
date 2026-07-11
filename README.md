@@ -105,8 +105,6 @@ toolbox/
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliburakkarabuga&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliburakkarabuga&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=aliburakkarabuga&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb)
 
 </div>
@@ -125,5 +123,5 @@ toolbox/
 ---
 
 <div align="center">
-<sub><code>// Build things. Break things. Learn. Repeat.</code></sub>
+<sub><code>// Tony Stark was able to build this in a cave! </code></sub>
 </div>
