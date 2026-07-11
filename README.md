@@ -20,7 +20,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 ```yaml
 name: Ali Burak Karabuğa
@@ -37,17 +37,17 @@ goal: Commercial IoT solutions for Turkish retail chains
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### [`cabin-tracker`](https://github.com/aliburakkarabuga/cabin-tracker)
 > Real-time fitting room occupancy monitoring system
 
 | Layer | Technology | Status |
 |-------|------------|--------|
-| Backend | Node.js · WebSocket | ✅ Complete |
-| Kiosk UI | HTML/CSS/JS | ✅ Complete |
-| Analytics | Dashboard + Reports | ✅ Complete |
-| Hardware | ESP32 · Sensors | 🔄 In progress |
+| Backend | Node.js · WebSocket | Complete |
+| Kiosk UI | HTML/CSS/JS | Complete |
+| Analytics | Dashboard + Reports | Complete |
+| Hardware | ESP32 · Sensors | In progress |
 
 ---
 
@@ -74,7 +74,7 @@ toolbox/
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 **Hardware**
 
@@ -99,7 +99,7 @@ toolbox/
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -113,7 +113,7 @@ toolbox/
 
 ---
 
-## 🌐 Connect
+##  Connect
 
 <div align="center">
 
