@@ -1,10 +1,10 @@
 <div align="center">
 
-#  Ali Burak Karabuğa
+# 🚀 Ali Burak Karabuğa
 
-**Computer Engineering Student**
+**Computer Engineering Student at Marmara University**
 
-*I build the bridge where a sensor's physical signal turns into real-time actionable data — hardware on one end, a live interface on the other.*
+*I build the bridge where a physical sensor signal turns into real-time actionable data — hardware on one end, a live interface on the other.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliburakkarabuga)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-burak-karabuğa-64b076317/)
@@ -13,7 +13,15 @@
 
 <br>
 
-##  Tech Stack & Tools
+## 👨‍💻 About Me
+
+* 🎓 **Education:** Sophomore Computer Engineering student at **Marmara University**.
+* 🔌 **Embedded & Automation:** Hands-on experience with **PLC programming (Schneider Electric)**, microcontrollers (ESP32, Arduino), and sensor abstraction layers.
+* ⚡ **Core Focus:** Merging low-level hardware control with high-performance web backends and real-time dashboards.
+
+<br>
+
+## 🛠️ Tech Stack & Tools
 
 **Hardware & Embedded**
 ![ESP32](https://img.shields.io/badge/ESP32-E67E22?style=for-the-badge&logo=espressif&logoColor=white)
@@ -37,9 +45,9 @@
 
 <br>
 
-##  Featured Projects
+## 📌 Featured Projects
 
-###  [BaggageTracker](https://github.com/aliburakkarabuga/BaggageTracker)
+### 🧳 [BaggageTracker](https://github.com/aliburakkarabuga/BaggageTracker)
 > **Airport baggage tracking system built to pitch to airlines.**
 * Features priority routing engine, SLA measurement, and anomaly detection.
 * Includes a **sensor-abstraction layer** allowing hardware (RFID/NFC/Ultrasonic) to plug in seamlessly without modifying backend architecture.
@@ -47,7 +55,7 @@
 
 ---
 
-###  [cabin-tracker](https://github.com/aliburakkarabuga/cabin-tracker)
+### 🛍️ [cabin-tracker](https://github.com/aliburakkarabuga/cabin-tracker)
 > **Real-time fitting room occupancy monitoring system for retail chains.**
 * Completed backend architecture, kiosk UI, and analytics reporting dashboard.
 * Active development on **ESP32** hardware integration.
@@ -55,7 +63,7 @@
 
 ---
 
-###  [bahar-pancar-website](https://github.com/aliburakkarabuga/bahar-pancar-website)
+### 🧠 [bahar-pancar-website](https://github.com/aliburakkarabuga/bahar-pancar-website)
 > **Custom client website for a professional psychologist.**
 * Built with **zero external dependencies** for optimal performance.
 * Features interactive particle physics background, 3D flip card effect, and scroll-triggered animations.
@@ -63,14 +71,25 @@
 
 ---
 
-###  [ata-akademi-website](https://github.com/aliburakkarabuga/ata-akademi-website)
+### 🎓 [ata-akademi-website](https://github.com/aliburakkarabuga/ata-akademi-website)
 > **Modern web platform developed for Ata Akademi.**
 * Designed for intuitive user interface and structured educational interaction.
 * **Stack:** `JavaScript` · `HTML5` · `CSS3`
 
 <br>
 
+## 📊 GitHub Stats
 
-<sub>-TONY STARK WAS ABLE TO BUILD THIS IN A CAVE!</sub>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliburakkarabuga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ali Burak's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliburakkarabuga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</div>
+
+<br>
+
+---
+<div align="center">
+
+<sub>Computer Engineering Student @ Marmara University ⚡</sub>
 
 </div>
