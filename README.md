@@ -1,47 +1,87 @@
 <div align="center">
 
-# Ali Burak Karabuğa
+#  Ali Burak Karabuğa
 
-Computer Engineering student. I build the layer where a sensor's signal
-turns into something a person can act on — hardware on one end, a live
-interface on the other.
+**Computer Engineering Student**
 
-[GitHub](https://github.com/aliburakkarabuga) · [LinkedIn](https://www.linkedin.com/in/ali-burak-karabuğa-64b076317/)
+*I build the bridge where a sensor's physical signal turns into real-time actionable data — hardware on one end, a live interface on the other.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliburakkarabuga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-burak-karabuğa-64b076317/)
 
 </div>
 
 <br>
 
-## Building right now
+##  Tech Stack & Tools
 
-**[BaggageTracker](https://github.com/aliburakkarabuga/BaggageTracker)**
-Airport baggage tracking system, built to pitch to airlines. Priority
-routing engine, SLA measurement, anomaly detection, a sensor-abstraction
-layer so real RFID hardware drops in without touching the backend.
-Node.js · Express · WebSocket · Arduino/HC-SR04 → NFC/RFID next.
+**Hardware & Embedded**
+![ESP32](https://img.shields.io/badge/ESP32-E67E22?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Schneider Electric](https://img.shields.io/badge/Schneider_PLC-3DCD58?style=for-the-badge&logo=schneider-electric&logoColor=white)
 
-**[cabin-tracker](https://github.com/aliburakkarabuga/cabin-tracker)**
-Real-time fitting room occupancy system for Turkish retail chains.
-Backend, kiosk UI, and analytics dashboard are done; ESP32 hardware
-integration is in progress.
+**Software & Web**
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-<br>
-
-## Other work
-
-| | |
-|---|---|
-| **[bahar-pancar](https://github.com/aliburakkarabuga/bahar-pancar)** | A psychologist's personal site — client work. Particle system, 3D flip business card, scroll-triggered reveals, zero dependencies. |
-| **[toolbox](https://github.com/aliburakkarabuga/toolbox)** | Small C++ CLI tools. Currently: `passgen`, a cryptographic password generator built on `/dev/urandom`. |
-
-<br>
-
-## Stack
-
-**Hardware** — ESP32, Arduino, PLC programming (Schneider)
-**Software** — Node.js, WebSocket, C++, JavaScript, HTML/CSS
-**Tools** — Git, GitHub, Vercel, VS Code
+**Tools & Workflow**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br>
 
-<sub>Freshman year. Most of this got built between semesters.</sub>
+##  Featured Projects
+
+###  [BaggageTracker](https://github.com/aliburakkarabuga/BaggageTracker)
+> **Airport baggage tracking system built to pitch to airlines.**
+* Features priority routing engine, SLA measurement, and anomaly detection.
+* Includes a **sensor-abstraction layer** allowing hardware (RFID/NFC/Ultrasonic) to plug in seamlessly without modifying backend architecture.
+* **Stack:** `Node.js` · `Express` · `WebSocket` · `Arduino / HC-SR04` → `RFID/NFC`
+
+---
+
+###  [cabin-tracker](https://github.com/aliburakkarabuga/cabin-tracker)
+> **Real-time fitting room occupancy monitoring system for retail chains.**
+* Completed backend architecture, kiosk UI, and analytics reporting dashboard.
+* Active development on **ESP32** hardware integration.
+* **Stack:** `Node.js` · `ESP32` · `JavaScript` · `HTML/CSS`
+
+---
+
+###  [bahar-pancar-website](https://github.com/aliburakkarabuga/bahar-pancar-website)
+> **Custom client website for a professional psychologist.**
+* Built with **zero external dependencies** for optimal performance.
+* Features interactive particle physics background, 3D flip card effect, and scroll-triggered animations.
+* **Stack:** `JavaScript (Vanilla)` · `HTML5` · `CSS3`
+
+---
+
+###  [ata-akademi-website](https://github.com/aliburakkarabuga/ata-akademi-website)
+> **Modern web platform developed for Ata Akademi.**
+* Designed for intuitive user interface and structured educational interaction.
+* **Stack:** `JavaScript` · `HTML5` · `CSS3`
+
+<br>
+
+##  GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliburakkarabuga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ali Burak's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliburakkarabuga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</div>
+
+<br>
+
+---
+<div align="center">
+
+<sub>Built with passion during Computer Engineering undergraduate studies ⚡</sub>
+
+</div>
