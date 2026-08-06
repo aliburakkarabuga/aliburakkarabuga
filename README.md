@@ -70,18 +70,7 @@
 
 <br>
 
-##  GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliburakkarabuga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ali Burak's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliburakkarabuga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</div>
-
-<br>
-
----
-<div align="center">
-
-<sub>Built with passion during Computer Engineering undergraduate studies ⚡</sub>
+<sub>-TONY STARK WAS ABLE TO BUILD THIS IN A CAVE!</sub>
 
 </div>
