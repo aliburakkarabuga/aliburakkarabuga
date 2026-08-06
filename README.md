@@ -5,6 +5,11 @@
 **Computer Engineering Student at Marmara University**
 
 *I build the bridge where a physical sensor signal turns into real-time actionable data — hardware on one end, a live interface on the other.*
+<div align="center">
+
+<sub> TONY STARK WAS ABLE TO BUILD THIS IN A CAVE! </sub>
+
+</div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliburakkarabuga)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-burak-karabuğa-64b076317/)
@@ -83,6 +88,6 @@
 ---
 <div align="center">
 
-<sub>Computer Engineering Student @ Marmara University ⚡</sub>
+<sub>Computer Engineering Student @ Marmara University </sub>
 
 </div>
