@@ -4,7 +4,7 @@
 
 **Computer Engineering Student at Marmara University**
 
-*I build the bridge where a physical sensor signal turns into real-time actionable data — hardware on one end, a live interface on the other.*
+*I build the bridge where a physical sensor signal turns into real-time actionable data — hardware on one end, a live interface on the other*
 <div align="center">
 
 <sub> **TONY STARK WAS ABLE TO BUILD THIS IN A CAVE!** </sub>
