@@ -68,7 +68,7 @@
 
 ---
 
-###  [bahar-pancar-website](https://github.com/aliburakkarabuga/bahar-pancar-website)
+###  [baharpancarwebsite](https://github.com/aliburakkarabuga/bahar-pancar-website)
 > **Custom client website for a professional psychologist.**
 * Built with **zero external dependencies** for optimal performance.
 * Features interactive particle physics background, 3D flip card effect, and scroll-triggered animations.
